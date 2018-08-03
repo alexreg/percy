@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Events","We need a custom implementation of fmt::Debug since Fn() doesn't implement debug."],["ParsedVirtualNode",""],["Rc","A single-threaded reference-counting pointer. 'Rc' stands for 'Reference Counted'."],["RefCell","A mutable memory location with dynamically checked borrow rules"],["VirtualNode",""]]});

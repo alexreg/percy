@@ -1,0 +1,10 @@
+(function() {var implementors = {};
+implementors["virtual_dom_rs"] = [{text:"impl&lt;'a&gt; !<a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/marker/trait.Sync.html\" title=\"trait core::marker::Sync\">Sync</a> for <a class=\"enum\" href=\"virtual_dom_rs/enum.Patch.html\" title=\"enum virtual_dom_rs::Patch\">Patch</a>&lt;'a&gt;",synthetic:true,types:["virtual_dom_rs::patch::Patch"]},{text:"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/marker/trait.Sync.html\" title=\"trait core::marker::Sync\">Sync</a> for <a class=\"enum\" href=\"virtual_dom_rs/html_macro/enum.TagType.html\" title=\"enum virtual_dom_rs::html_macro::TagType\">TagType</a>",synthetic:true,types:["virtual_dom_rs::html_macro::TagType"]},{text:"impl !<a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/marker/trait.Sync.html\" title=\"trait core::marker::Sync\">Sync</a> for <a class=\"struct\" href=\"virtual_dom_rs/virtual_node/struct.VirtualNode.html\" title=\"struct virtual_dom_rs::virtual_node::VirtualNode\">VirtualNode</a>",synthetic:true,types:["virtual_dom_rs::virtual_node::VirtualNode"]},{text:"impl !<a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/marker/trait.Sync.html\" title=\"trait core::marker::Sync\">Sync</a> for <a class=\"struct\" href=\"virtual_dom_rs/virtual_node/struct.ParsedVirtualNode.html\" title=\"struct virtual_dom_rs::virtual_node::ParsedVirtualNode\">ParsedVirtualNode</a>",synthetic:true,types:["virtual_dom_rs::virtual_node::ParsedVirtualNode"]},{text:"impl !<a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/marker/trait.Sync.html\" title=\"trait core::marker::Sync\">Sync</a> for <a class=\"struct\" href=\"virtual_dom_rs/virtual_node/struct.Events.html\" title=\"struct virtual_dom_rs::virtual_node::Events\">Events</a>",synthetic:true,types:["virtual_dom_rs::virtual_node::Events"]},];
+
+            if (window.register_implementors) {
+                window.register_implementors(implementors);
+            } else {
+                window.pending_implementors = implementors;
+            }
+        
+})()
